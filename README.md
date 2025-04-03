@@ -1,3 +1,3 @@
 # Mubarak Native
 
-This is my personal webpage hosted on github pages.
+This is my personal static webpage hosted on github pages.
